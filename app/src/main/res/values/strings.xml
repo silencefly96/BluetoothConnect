@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothConnect</string>
+    <string name="open_server">打开服务端</string>
+    <string name="open_client">打开客户端</string>
+</resources>
